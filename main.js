@@ -37,3 +37,6 @@ for (let num of array) {
         odd.push(num);
     }
 }
+console.log(odd);
+console.log(even);
+
